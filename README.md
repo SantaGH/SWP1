@@ -1,2 +1,1 @@
-20092268    kwon sungin
-Kookmin Univ. SW
+20092268, Kwon sungin, Mathematics
